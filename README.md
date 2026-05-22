@@ -22,7 +22,6 @@ Konzolová aplikace pro správu úkolů s MySQL databází a základní sadou in
 ## Struktura projektu
 src/
     main.py
-
 tests/
     test_*.py
     db_funkce.py
