@@ -20,12 +20,13 @@ Konzolová aplikace pro správu úkolů s MySQL databází a základní sadou in
 ---
 
 ## Struktura projektu
+```
 src/
     main.py
 tests/
     test_*.py
     db_funkce.py
----
+```
 
 ## Technologie:
 - Python 3
@@ -36,8 +37,14 @@ tests/
 ## Testy
 Testy jsou integrační a pracují s reálnou MySQL databází.
 
-Spuštění testů: pytest
+Spuštění testů: 
+pytest
 ---
+
+## Požadavky
+
+- Python 3.10+
+- MySQL Server
 
 ## Spuštění projektu:
 pip install -r requirements.txt
