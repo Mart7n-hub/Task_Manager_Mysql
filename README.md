@@ -28,6 +28,7 @@ tests/
     test_*.py
     db_funkce.py
 main.py
+.gitignore
 requirements.txt
 
 ```
